@@ -11,4 +11,4 @@
 #### Distribution End Point: d3get7ykvd8zsk.cloudfront.net
 
 ### Full project documentation:
-#### https://docs.google.com/document/d/1sGCJIBmaJqxp4MvaVlb8_v9i8oSkAMnefkPpZtMUwIo
+#### https://1drv.ms/w/s!AHbbEx2gmFefh1g
