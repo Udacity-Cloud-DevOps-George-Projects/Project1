@@ -10,5 +10,4 @@
 #### Distribution ID: E2KU7T3L9GSWMO
 #### Distribution End Point: d3get7ykvd8zsk.cloudfront.net
 
-### Full project documentation:
-#### https://1drv.ms/w/s!AHbbEx2gmFefh1g
+### Full project documentation: https://1drv.ms/w/s!AnbbEx2gmFefh1gl7TNcSBPsJHMT
